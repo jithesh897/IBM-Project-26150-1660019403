@@ -67,3 +67,7 @@ lists = [[1, 'aaa', 22], [2, 'bbb', 25], [3, 'ccc', 24]]
 lists = [[1, 'aaa', 22], [2, 'bbb', 25], [3, 'ccc', 24]]
 ndf = pd.DataFrame(lists)
 ndf
+0	1	2
+0	1	aaa	22
+1	2	bbb	25
+2	3	ccc	24
