@@ -1,5 +1,5 @@
 # IBM-Project-3252-1658509040
-Intelligent Vehicle Damage Assessment and Cost Estimator for Insurance Companies
+Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies
 
 
 
